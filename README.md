@@ -2,17 +2,22 @@
 A review of notable computer science papers by Professor A. Ghorbannia Delavar.
 # Review of Research Papers by Professor A. Ghorbannia Delavar
 **Author:** Nima Janbaz
+
 **Field of Study:** Computer Science
+
 **University:** Payame Noor University, Tehran North Branch
+
 **Date:** 2025
 ---
 ## Introduction
 This repository documents my study and review of selected research papers published by **Professor A. Ghorbannia Delavar**. As a computer science student, exploring these papers has provided me with valuable insights into cutting-edge topics in cloud computing, Internet of Things (IoT), network routing, and optimization algorithms.
+
 ## About Professor A. Ghorbannia Delavar
 Professor Delavar is a prominent researcher whose work focuses on solving complex computational problems using meta-heuristic algorithms, optimization techniques, and efficient resource management in distributed systems like cloud data centers, IoT, and vehicular networks.
 ---
 ## Reviewed Papers
 Here is a list of the papers I have reviewed, along with their details and links for further reference.
+
 | Year | Acronym | Title & Link | Journal / Conference | Key Focus Areas |
 | :--- | :--- | :--- | :--- | :--- |
 | 2025 | TPMCD | **[TPMCD: A method for optimizing cost and throughput for clustering tasks and hybrid containers in the cloud data center](https://doi.org/10.1016/j.jnca.2025.104132)** | Journal of Network and Computer Applications | Cloud Computing, Task Clustering, Container Orchestration, Cost Optimization |
